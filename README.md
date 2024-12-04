@@ -1,0 +1,3 @@
+此demo为个人学习开发unity2d项目的数据。
+包含资源文件和代码文件
+未封装由unity Editer打开
